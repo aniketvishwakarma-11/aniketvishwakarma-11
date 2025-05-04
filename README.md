@@ -1,6 +1,5 @@
-# 💫 About Me:
 
-<h1>👋 Hi, I'm Aniket!</h1>
+<h1>👋 Hi, I'm Aniket Vishwakarma!</h1>
 <p>
   I'm a passionate and dedicated developer with a strong foundation in 
   <strong>C++</strong>, <strong>Java</strong>, and <strong>Python</strong>. I love building efficient solutions through 
