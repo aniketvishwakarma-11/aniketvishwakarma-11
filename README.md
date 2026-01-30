@@ -100,25 +100,25 @@ Mumbai University *(2023 – 2027)*
 📊 **CGPA:** 7.5  
 
 ---
-
 ## 📊 GitHub Analytics 📊
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketvishwakarma-11&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=aniketvishwakarma-11&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
