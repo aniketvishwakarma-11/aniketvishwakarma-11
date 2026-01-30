@@ -1,10 +1,11 @@
+<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-# ✨ Aniket Vishwakarma ✨  
-### 🚀 Full-Stack Developer | MERN Stack | Systems & DSA Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Aniket%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-📍 Mumbai, India  
-💡 Building scalable systems. Learning deeply. Growing consistently.
+<h3>🚀 Full-Stack Developer · MERN Stack · Systems & DSA Explorer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+systems;Learning+deeply%2C+not+quickly;Strong+fundamentals+%3E+flashy+tools;Consistency+beats+talent"/>
 
 <p>
   <a href="https://github.com/aniketvishwakarma-11">
@@ -22,128 +23,53 @@
 
 ---
 
-## 🌠 A Little About Me
+## 🧬 About Me
 
-I’m a **Full-Stack Developer** who enjoys turning ideas into  
-**secure, scalable, real-time web applications**.
+I’m a **Full-Stack Developer** who loves building  
+**secure, scalable, real-time systems** — not just UI demos.
 
-I care deeply about:
-- 🧠 **System fundamentals**
-- ⚙️ **How things work under the hood**
-- 🧩 **Data Structures & problem solving**
-- 🚀 Writing **production-ready code**, not just demos
-
-I believe strong engineers are built by  
-**consistency, curiosity, and craftsmanship**.
+I focus on:
+- 🧠 System fundamentals
+- ⚙️ Clean architecture
+- 🧩 DSA-driven problem solving
+- 🚀 Code that survives production
 
 ---
 
-## 🛠️ My Technical Universe
+## 🌌 Tech Multiverse
 
-### 🧑‍💻 Languages I Speak
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-Basic-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-</p>
+### Languages
+Java · JavaScript · Python (Basic)
 
----
+### Frontend
+React · Next.js · Redux Toolkit · HTML · CSS
 
-### 🎨 Frontend Craft
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-</p>
+### Backend
+Node.js · Express.js · REST APIs · JWT · Passport.js
 
----
+### Databases
+MongoDB · SQL · SQLite
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/JWT-Secure_Auth-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square"/>
-</p>
+### Real-Time
+Socket.IO · WebRTC
+
+### Tools & Cloud
+Git · GitHub · Postman · Vercel · Render · Cloudinary
 
 ---
 
-### 🗄️ Data Layer
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
-</p>
+## 🎓 Education
+
+B.E. Information Technology  
+Mumbai University (2023–2027)  
+CGPA: 7.5
 
 ---
 
-### ⚡ Real-Time & Media
-<p>
-  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
-  <img src="https://img.shields.io/badge/WebRTC-FF6F00?style=flat-square"/>
-</p>
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight)
 
 ---
 
-### ☁️ Tools & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
-</p>
-
----
-
-## 🧩 What I Bring to the Table
-
-✨ Clean & maintainable full-stack code  
-✨ Secure authentication & authorization flows  
-✨ Real-time system design thinking  
-✨ REST API & database schema design  
-✨ Strong DSA & analytical problem solving  
-✨ Growth mindset & consistency  
-
----
-
-## 🎓 Education & Journey
-
-🎓 **B.E. – Information Technology**  
-Mumbai University (2023 – 2027)  
-📊 CGPA: **7.5**
-
-📘 HSC — **75%**  
-📗 SSC — **92%**
-
----
-
-## 🏆 Milestones & Roles
-
-🏅 Smart India Hackathon — *Top 60 Teams*  
-🚀 Quasar 4.0 Hackathon Participant  
-🏢 Training & Placement Office Coordinator — *1+ Year*  
-📜 MERN Stack Certification — *Apna College*
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aniketvishwakarma-11&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-
-### 🌱 *“Focus on fundamentals. The rest compounds.”*  
-
-</div>
+✨ Consistency beats intensity.
