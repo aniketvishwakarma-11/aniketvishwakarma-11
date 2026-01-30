@@ -115,16 +115,6 @@ Mumbai University *(2023 – 2027)*
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<div align="center">
-
 ### ✨ *Consistency beats intensity. Systems beat shortcuts.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
