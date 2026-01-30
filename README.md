@@ -1,128 +1,149 @@
-<h1 align="center">👋 Hi, I'm Aniket Vishwakarma</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | System & DSA Focused</h3>
+<div align="center">
 
-<p align="center">
+# ✨ Aniket Vishwakarma ✨  
+### 🚀 Full-Stack Developer | MERN Stack | Systems & DSA Enthusiast
+
+📍 Mumbai, India  
+💡 Building scalable systems. Learning deeply. Growing consistently.
+
+<p>
   <a href="https://github.com/aniketvishwakarma-11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/aniket-vishwakarma-bb1b922b5">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:aniketvishworks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
   </a>
+</p>
+
+</div>
+
+---
+
+## 🌠 A Little About Me
+
+I’m a **Full-Stack Developer** who enjoys turning ideas into  
+**secure, scalable, real-time web applications**.
+
+I care deeply about:
+- 🧠 **System fundamentals**
+- ⚙️ **How things work under the hood**
+- 🧩 **Data Structures & problem solving**
+- 🚀 Writing **production-ready code**, not just demos
+
+I believe strong engineers are built by  
+**consistency, curiosity, and craftsmanship**.
+
+---
+
+## 🛠️ My Technical Universe
+
+### 🧑‍💻 Languages I Speak
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-Basic-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
 </p>
 
 ---
 
-## 🧠 Who Am I?
-
-🎯 I’m a **Full-Stack Developer** specializing in the **MERN stack**, with strong exposure to building  
-**scalable, real-time, secure web applications**.
-
-I enjoy:
-- Designing clean frontend architectures  
-- Building secure backend APIs  
-- Working with real-time systems  
-- Strengthening **DSA & system fundamentals**  
-
-I believe in **learning deeply, building properly, and understanding how things work under the hood**.
+### 🎨 Frontend Craft
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack I Work With
-
-### 🧑‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-Basic-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/JWT-Secure_Auth-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square"/>
+</p>
 
 ---
 
-### 🧩 Backend & APIs
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-Authentication-purple?style=for-the-badge)
-![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+### 🗄️ Data Layer
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite"/>
+</p>
 
 ---
 
 ### ⚡ Real-Time & Media
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
-![WebRTC](https://img.shields.io/badge/WebRTC-orange?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/WebRTC-FF6F00?style=flat-square"/>
+</p>
 
 ---
 
-### 🛠️ Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
+### ☁️ Tools & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
+</p>
 
 ---
 
-## 🧩 What I’m Good At
+## 🧩 What I Bring to the Table
 
-✅ Full-Stack Web Development  
-✅ Secure Authentication & Authorization  
-✅ REST API Design  
-✅ Real-Time Communication Systems  
-✅ Database Schema Design  
-✅ System Thinking & Scalability  
-✅ Strong DSA & Problem-Solving Foundation  
+✨ Clean & maintainable full-stack code  
+✨ Secure authentication & authorization flows  
+✨ Real-time system design thinking  
+✨ REST API & database schema design  
+✨ Strong DSA & analytical problem solving  
+✨ Growth mindset & consistency  
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Journey
 
-🎓 **B.E. in Information Technology**  
-📍 Mumbai University (2023 – 2027)  
+🎓 **B.E. – Information Technology**  
+Mumbai University (2023 – 2027)  
 📊 CGPA: **7.5**
 
-📘 **HSC:** 75%  
-📗 **SSC:** 92%
+📘 HSC — **75%**  
+📗 SSC — **92%**
 
 ---
 
-## 🏆 Experience & Activities
+## 🏆 Milestones & Roles
 
-🏅 Smart India Hackathon — **Top 60 Teams**  
+🏅 Smart India Hackathon — *Top 60 Teams*  
 🚀 Quasar 4.0 Hackathon Participant  
-🏢 Training & Placement Office (TPO) Coordinator — **1+ Year**  
-📜 Certified in **Web & MERN Stack Development** — Apna College  
+🏢 Training & Placement Office Coordinator — *1+ Year*  
+📜 MERN Stack Certification — *Apna College*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=radical" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aniketvishwakarma-11&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aniketvishwakarma-11&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=radical" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-<p align="center">
-✨ <i>Learning deeply. Building seriously. Growing consistently.</i>
-</p>
+<div align="center">
+
+### 🌱 *“Focus on fundamentals. The rest compounds.”*  
+
+</div>
