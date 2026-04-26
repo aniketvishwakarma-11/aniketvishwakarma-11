@@ -1,122 +1,134 @@
-<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Aniket%20Vishwakarma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Aniket%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20→%20AI%2FML&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
-<h3>🚀 Full-Stack Developer · MERN Stack · Systems & DSA Explorer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+products+people+actually+use;MERN+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+ML;197%2B+users+on+my+current+project;Hackathon+winner+%F0%9F%8F%86;Open+to+freelance+%26+remote+work"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+web+systems;Strong+fundamentals+over+shortcuts;Learning+deeply%2C+shipping+clean+code;Consistency+beats+intensity"/>
-
-<p>
-  <a href="https://github.com/aniketvishwakarma-11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-vishwakarma-bb1b922b5">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:aniketvishworks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniket--vishwakarma.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://aniket-vishwakarma-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-vishwakarma-bb1b922b5)
+[![Email](https://img.shields.io/badge/Email-aniketvishworks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketvishworks@gmail.com)
 
 </div>
 
 ---
 
-## 🌌 About Me
+## Who I Am
 
-✨ I am a **Full-Stack Developer** passionate about crafting  
-**secure, scalable, and real-time web applications**.
+I'm a 3rd-year Information Technology student at Mumbai University, building full-stack web apps that ship to real users — not just localhost.
 
-I focus on:
-- 🧠 Deep system understanding  
-- ⚙️ Clean backend & frontend architecture  
-- 🧩 Strong DSA & logical thinking  
-- 🚀 Writing code that survives production  
+My current project has **197+ active users and 4,400+ views**. I'm not waiting to graduate to do real work.
 
-> *I build slowly, but I build right.*
+My trajectory: Full-Stack → AI/ML Engineering. I'm already integrating ML models, Gemini AI, and YOLO into production apps. The transition is already happening.
+
+I'm open to **freelance projects and remote work** — if you need someone who can own a feature end-to-end and ship it, let's talk.
 
 ---
 
-## 🧭 Engineering Mindset
+## What I've Built
 
-```text
-Think → Design → Build → Debug → Optimize → Scale
-```
+### 🎓 Student Placement Prediction System
+> *ML-powered platform with 197+ active users*
 
-- Prefer **clarity over complexity**
-- Believe in **fundamentals first**
-- Improve a little **every single day**
+A full-stack AI application that predicts student placement probability using trained ML models. Not a demo — it's live with real users.
 
----
+- **Resume ATS scorer** (0–100 scale) using Affinda parser
+- **AI analysis** via Gemini 2.5 with automatic Cloudflare Workers AI fallback
+- **Role-based dashboards** for students, admins, and placement officers
+- **Trend graphs** and personalized recommendations
+- Dual prediction modes: standard and resume-based
 
-## 🪐 Tech Galaxy
+**Stack:** Next.js · React · TypeScript · Tailwind · Node.js · Express · MongoDB · Python · Scikit-learn · Pandas · NumPy · Firebase Auth · Gemini AI 2.5 · Cloudflare Workers AI
 
-### 🧑‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css&theme=dark" />
-</p>
-
-### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-<p align="center">
-🔐 JWT · Passport.js &nbsp;&nbsp; 🌐 REST APIs
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
-</p>
-
-<p align="center">➕ SQL Fundamentals</p>
-
-### ⚡ Real-Time & Media
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
-  <img src="https://img.shields.io/badge/WebRTC-FF6F00?style=flat-square"/>
-</p>
-
-### ☁️ Tools & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
-</p>
+📊 **4,400+ views · 6,700+ events · 6m avg session time**
 
 ---
 
-## 🎓 Education 🎓
+### ♻️ EcoVision Bharat — Waste Management Platform
+> *Hackathon winner — GNA 4.0, Clean & Green Technology domain*
 
-**🎓 B.E. – Information Technology**  
-Mumbai University *(2023 – 2027)*  
-📊 **CGPA:** 7.5  
+AI-powered civic waste management system. Citizens report waste with photos and GPS. Officers verify and assign workers. YOLOv8 estimates severity automatically.
+
+- **YOLOv8 ML inference** for waste severity classification
+- **3-role system:** citizen → officer → sanitation worker workflow
+- **Gamified scoring** to incentivize participation
+- GPS + image upload with real-time status tracking
+
+**Stack:** React 19 · Vite · Express · Node.js · FastAPI · Python · YOLOv8 · Supabase · PostgreSQL · Cloudinary · OpenStreetMap · Tailwind
+
+🏆 **Won 1st Prize — Clean & Green Technology | GNA University, Phagwara**
 
 ---
-## 📊 GitHub Analytics 📊
+
+### 💬 Social Media Platform
+Full-stack social platform with authentication, posts, follows, and real-time features.
+**Stack:** MERN · Socket.IO · JWT
+
+---
+
+### 📈 Stock Trading Platform
+Real-time stock tracking and simulated trading platform.
+**Stack:** JavaScript · Node.js · Express · REST APIs
+
+---
+
+### 📹 Video Call App
+Peer-to-peer video calling using WebRTC.
+**Stack:** WebRTC · Socket.IO · Node.js
+
+---
+
+## Tech Stack
+
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS · Redux · HTML · CSS
+
+**Backend**
+Node.js · Express.js · FastAPI · Python · REST APIs · Socket.IO · WebRTC
+
+**Databases**
+MongoDB · PostgreSQL · Supabase · SQLite · SQL
+
+**AI / ML**
+Scikit-learn · Pandas · NumPy · YOLOv8 · Gemini AI · Cloudflare Workers AI
+
+**Auth & Media**
+Firebase Auth · JWT · Passport.js · Cloudinary · Multer
+
+**Tools**
+Git · GitHub · Postman · Vercel · Render · VS Code
+
+---
+
+## Currently
+
+- 🔨 Enhancing EcoVision Bharat with better ML inference and more role features
+- 📊 Growing the Student Placement platform past 200+ users
+- 📚 Going deeper into ML/AI engineering alongside full-stack work
+- 💼 Looking for freelance and remote opportunities
+
+---
+
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=aniketvishwakarma-11&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aniketvishwakarma-11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aniketvishwakarma-11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://streak-stats.demolab.com?user=aniketvishwakarma-11&theme=tokyonight&hide_border=true" height="170"/>
 </div>
-
 
 ---
 
-### ✨ *Consistency beats intensity. Systems beat shortcuts.*
+## Let's Work Together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+I'm available for **freelance projects, remote contracts, and internships.**
 
+If you need a developer who can handle the full stack — from database design to UI — and integrate AI/ML features, I'm your guy.
+
+**Best way to reach me:** [aniketvishworks@gmail.com](mailto:aniketvishworks@gmail.com)
+
+**Portfolio:** [aniket-vishwakarma-portfolio.vercel.app](https://aniket-vishwakarma-portfolio.vercel.app/)
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 </div>
