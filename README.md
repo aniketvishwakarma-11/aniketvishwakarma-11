@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:2d1b69,100:0f0c29&height=280&section=header&text=Aniket%20Vishwakarma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%86%92%20AI%2FML%20Engineer&descSize=20&descAlignY=56&descColor=c4b5fd&stroke=a78bfa&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+products+people+actually+use+%F0%9F%9A%80;197%2B+users+on+my+current+project;Hackathon+Winner+%F0%9F%8F%86+%E2%80%94+GNA+4.0;MERN+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+ML+%C2%B7+AI;Open+to+Freelance+%26+Remote+Work+%F0%9F%8C%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+products+people+actually+use+%F0%9F%9A%80;197%2B+users+on+my+current+project;%F0%9F%8F%86+GNA+4.0+Winner+%E2%80%94+Clean+%26+Green+Tech;MERN+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+ML+%C2%B7+AI;Open+to+Freelance+%26+Remote+Work+%F0%9F%8C%8D"/>
 
 <br/>
 
@@ -41,7 +41,7 @@ const aniket = {
   location:   "Mumbai, India",
   building:   ["Student Placement AI", "EcoVision Bharat"],
   liveUsers:  "197+ active on production projects",
-  won:        "GNA Hackathon 4.0 — Clean & Green Tech 🏆",
+  won:        "GNA Hackathon 4.0 — 1st Prize, Domain: Clean & Green Technology 🏆",
   openTo:     ["Freelance", "Remote Work", "Internships"],
   superpower: "Ships real products, not just side projects"
 };
@@ -89,7 +89,7 @@ A full-stack AI platform that predicts student placement probability using train
 ---
 
 ### ♻️ EcoVision Bharat — Waste Management Platform
-**`[ 🏆 HACKATHON WINNER · GNA 4.0 · CLEAN & GREEN TECH ]`**
+**`[ 🏆 GNA HACKATHON 4.0 WINNER · DOMAIN: CLEAN & GREEN TECHNOLOGY ]`**
 
 <img src="https://img.shields.io/badge/Award-1st%20Prize-fbbf24?style=flat-square"/> <img src="https://img.shields.io/badge/AI-YOLOv8%20Inference-ef4444?style=flat-square"/> <img src="https://img.shields.io/badge/Roles-3%20User%20Types-8b5cf6?style=flat-square"/>
 
@@ -182,6 +182,59 @@ AI-powered civic waste management. Citizens report waste with photos + GPS. Offi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketvishwakarma-11&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/aniketvishwakarma-11/aniketvishwakarma-11/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+---
+
+## ⚙️ Snake Setup (One-Time)
+
+<details>
+<summary><b>Click to see how to activate the contribution snake</b></summary>
+<br/>
+
+1. Make sure your profile repo exists: `github.com/aniketvishwakarma-11/aniketvishwakarma-11`
+2. Create `.github/workflows/snake.yml` inside it with this content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: aniketvishwakarma-11
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Settings → Actions → General → Workflow permissions → Read and write permissions** ✅
+4. Run the workflow manually once from the **Actions** tab
+5. The snake SVG will appear automatically every day after that 🐍
+
+</details>
 
 ---
 
