@@ -197,47 +197,6 @@ AI-powered civic waste management. Citizens report waste with photos + GPS. Offi
 
 ---
 
-## ⚙️ Snake Setup (One-Time)
-
-<details>
-<summary><b>Click to see how to activate the contribution snake</b></summary>
-<br/>
-
-1. Make sure your profile repo exists: `github.com/aniketvishwakarma-11/aniketvishwakarma-11`
-2. Create `.github/workflows/snake.yml` inside it with this content:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: aniketvishwakarma-11
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Settings → Actions → General → Workflow permissions → Read and write permissions** ✅
-4. Run the workflow manually once from the **Actions** tab
-5. The snake SVG will appear automatically every day after that 🐍
-
-</details>
-
----
-
 ## 📅 What I'm Doing Right Now
 
 ```text
